@@ -1,1 +1,1 @@
-It is use to connect wifi for the HearSight device from android phone generating QR.
+It is use to connect wifi for the device from android phone generating QR.
